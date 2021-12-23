@@ -1,5 +1,5 @@
 # Compactador / Descompactador
-Esse trabalho foi elaborado como uma das exigências da disciplina de Projeto de Algoritmos.
+Esse trabalho foi elaborado como uma das exigências da disciplina de Projeto de Algoritmos na Universidade Federal de Viçosa.
 
 
 ## Como utilizar
